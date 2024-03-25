@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_011_WithoutTermsAndConditions</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8c8400c0-4199-4bcd-ae88-558829db0e8d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>813e032c-075e-4ff4-8607-2e8ac2f01f92</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>813e032c-075e-4ff4-8607-2e8ac2f01f92</id>
+      <masked>false</masked>
+      <name>termsAndConditions</name>
+   </variable>
+</TestCaseEntity>

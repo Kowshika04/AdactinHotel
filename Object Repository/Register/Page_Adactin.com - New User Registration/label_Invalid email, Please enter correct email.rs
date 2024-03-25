@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Invalid email, Please enter correct email</name>
+   <tag></tag>
+   <elementGuidId>7361f7ce-e6ae-4df6-a077-029205d3cdb5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='email_add_span']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#email_add_span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Invalid email, Please enter correct email.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>3e0f9960-571c-43d3-8cbf-7559c7a9e19f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>email_add_span</value>
+      <webElementGuid>9c06cf87-fd9d-4639-967d-279f25f5842b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>reg_error email_err</value>
+      <webElementGuid>e5ac4803-d67e-4381-a07f-96ec67e61847</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Invalid email, Please enter correct email.</value>
+      <webElementGuid>ed035fe6-2d5b-4c8b-bb37-86c290d4cd0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;email_add_span&quot;)</value>
+      <webElementGuid>d193ca29-dc65-4ff4-9dc5-8c8ff946adb0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//label[@id='email_add_span']</value>
+      <webElementGuid>37fa1dbd-6f59-4fb2-a38b-6389b552c381</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='register_form']/table/tbody/tr[6]/td[2]/label</value>
+      <webElementGuid>03e4396f-9b28-4327-bbe3-9af4f21fee78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/following::label[1]</value>
+      <webElementGuid>388833a7-bd87-4912-9cb0-198ab8c5f46c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Invalid email, Please enter correct email.']/parent::*</value>
+      <webElementGuid>9db7f52d-d62e-402b-9bb5-d2b0e1d9ad87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[6]/td[2]/label</value>
+      <webElementGuid>ff6548a9-11f2-42e0-8941-1a6174ea1c28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@id = 'email_add_span' and (text() = 'Invalid email, Please enter correct email.' or . = 'Invalid email, Please enter correct email.')]</value>
+      <webElementGuid>f73ecdcb-a21f-49d9-857a-bb4642e441f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

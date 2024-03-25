@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_Change Password</name>
+   <tag></tag>
+   <elementGuidId>d172498b-dcc1-4761-be4a-82d1e390faec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='change_password_form']/table/tbody/tr/td/strong</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Change Password(Fields marked with Red asterix (*) are mandatory)&quot;s] >> internal:role=strong</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>0987dd30-31d4-462b-a804-0b833f5fa6a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Change Password</value>
+      <webElementGuid>32f1e38e-0070-48a5-8dd4-cdcd1219ce13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;change_password_form&quot;)/table[@class=&quot;login&quot;]/tbody[1]/tr[1]/td[@class=&quot;login_title&quot;]/strong[1]</value>
+      <webElementGuid>bfa97592-1dc9-4cf0-a329-9389e766545b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='change_password_form']/table/tbody/tr/td/strong</value>
+      <webElementGuid>17660e15-f45a-46ba-be7b-d4b12b65fb2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='www.adactin.com'])[1]/following::strong[1]</value>
+      <webElementGuid>f51ad67c-420d-43f1-a41a-7eaa955c9c04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Adactin'])[1]/following::strong[1]</value>
+      <webElementGuid>c27489f0-ec57-4bcc-aa30-c673d67578b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Fields marked with Red asterix (*) are mandatory)'])[1]/preceding::strong[1]</value>
+      <webElementGuid>240cd1bf-7072-4631-8411-972999e8b6d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//strong</value>
+      <webElementGuid>c56ae97f-a859-4f3f-8331-6ef8975a2a6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'Change Password' or . = 'Change Password')]</value>
+      <webElementGuid>067719c9-9e3c-4245-84a5-dde3deec7bec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

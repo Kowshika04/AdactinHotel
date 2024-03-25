@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_004_MandatoryFields_ExceptNoOfRooms</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6f3f2020-7bcb-4a69-bcfc-62f535e842cd</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7f11f5b4-08b0-419d-acd6-d8bd25bc885d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>daf97cc1-6664-45f0-99b0-bdab46621c86</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7f11f5b4-08b0-419d-acd6-d8bd25bc885d</id>
+      <masked>false</masked>
+      <name>data1</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>daf97cc1-6664-45f0-99b0-bdab46621c86</id>
+      <masked>false</masked>
+      <name>data2</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_002_InvalidUserName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>80a44335-718d-4c00-a86b-f3a1d694bbd9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>24a9adc7-4072-4ee1-b756-6de360dbf58e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>24a9adc7-4072-4ee1-b756-6de360dbf58e</id>
+      <masked>false</masked>
+      <name>data2</name>
+   </variable>
+</TestCaseEntity>

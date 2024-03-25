@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>The booking has been cancelled</name>
+   <tag></tag>
+   <elementGuidId>d2dd0691-c13e-4b84-ae96-b94bd5a6950d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='search_result_error']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#search_result_error</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;The booking has been cancelled.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>d2d6b89e-77fc-45b2-84d1-07211e006f17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>search_result_error</value>
+      <webElementGuid>a74151bc-f659-483f-87fd-7464ce102af3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>reg_error</value>
+      <webElementGuid>fec12448-ad35-41bd-a240-1ba992561c17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+					The booking has been cancelled.</value>
+      <webElementGuid>21c93ef6-6042-4c68-8e8e-8f55c8cee255</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search_result_error&quot;)</value>
+      <webElementGuid>3ba2f44b-9650-4d5e-a0eb-662d6e9f45af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//label[@id='search_result_error']</value>
+      <webElementGuid>8e99670b-1159-4054-972a-78cd52cf4a0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='booked_form']/table/tbody/tr/td/table/tbody/tr/td[2]/label</value>
+      <webElementGuid>af110243-dcaa-4574-b758-f650b4d03e15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Booked Itinerary'])[2]/following::label[1]</value>
+      <webElementGuid>8d573c67-0ed0-4bad-866a-7f28f6dbf6ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::label[1]</value>
+      <webElementGuid>3023163a-647a-4fd5-bcee-47c84e779552</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Id'])[1]/preceding::label[1]</value>
+      <webElementGuid>5999c58f-9d21-4a99-98d3-47957a882694</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The booking has been cancelled.']/parent::*</value>
+      <webElementGuid>cafa8a5e-933f-4efe-aa93-f61bd26234bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>fdef412d-d827-4c27-8142-58f831887c40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@id = 'search_result_error' and (text() = '
+					The booking has been cancelled.' or . = '
+					The booking has been cancelled.')]</value>
+      <webElementGuid>a0ef05fa-fef2-42f7-b862-2b5d822bac91</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

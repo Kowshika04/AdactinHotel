@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_002_OptionalFields</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e1c03f3b-d08a-46ed-b7ed-0d4fb913bdf2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4fb5d0a5-b9f3-4ec1-a262-ec2e68fc8dfb</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4fb5d0a5-b9f3-4ec1-a262-ec2e68fc8dfb</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

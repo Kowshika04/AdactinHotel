@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To check the login functionality with the valid username and password</description>
+   <name>TC_001_ManualTetcase_LoginFunctionlaity</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af54df79-a3a3-4ebc-8775-9f18a34c9db7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9ba7e031-19c1-41da-8ccd-37963fb156a0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9ba7e031-19c1-41da-8ccd-37963fb156a0</id>
+      <masked>false</masked>
+      <name>data1</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To check the login functionality with the valid username and password</description>
+   <name>TC_004_CancelButton</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>89be1766-1982-46a4-8b4a-84abbca44d37</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>671496b4-161a-4999-9c70-c3db9f857482</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>30b92c72-60ed-49d2-be4b-98b8427f253d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d8fb161e-55ee-49fb-b10e-ee44e64db6a3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>671496b4-161a-4999-9c70-c3db9f857482</id>
+      <masked>false</masked>
+      <name>data1</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>30b92c72-60ed-49d2-be4b-98b8427f253d</id>
+      <masked>false</masked>
+      <name>data2</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d8fb161e-55ee-49fb-b10e-ee44e64db6a3</id>
+      <masked>false</masked>
+      <name>data3</name>
+   </variable>
+</TestCaseEntity>

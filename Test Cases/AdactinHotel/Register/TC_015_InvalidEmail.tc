@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_015_InvalidEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b967ebc4-11be-4f1b-ad27-93236ee1a3de</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ad033da5-f578-44f0-b735-61175753ef1e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ad033da5-f578-44f0-b735-61175753ef1e</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

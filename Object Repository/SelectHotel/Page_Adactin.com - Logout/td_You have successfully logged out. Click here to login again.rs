@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_You have successfully logged out. Click here to login again</name>
+   <tag></tag>
+   <elementGuidId>a9ef560a-5df4-43fd-8d0f-3833e6da79f9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Adactin Hotel Mobile App'])[1]/preceding::td[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.reg_success</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;You have successfully logged out. Click here to login again&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>ee3ebbf6-41a6-409c-aff1-79a718478bbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>colspan</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>99bfb8fe-583e-4046-9511-8db05bc1ebc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>reg_success</value>
+      <webElementGuid>58c676fe-2010-4ad6-a30f-dd2bae803af2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>You have successfully logged out. Click here to login again</value>
+      <webElementGuid>ac196ccd-d8bf-4a71-886b-c9a6ad9e1d0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/table[@class=&quot;content&quot;]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[1]/td[@class=&quot;reg_success&quot;]</value>
+      <webElementGuid>cf7d8b56-dea2-4c79-9e89-d4dc9ce1a323</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adactin Hotel Mobile App'])[1]/preceding::td[1]</value>
+      <webElementGuid>77df16b3-ec26-4c2f-9169-076d3ab66bca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='You have successfully logged out.']/parent::*</value>
+      <webElementGuid>d6d01ef8-e812-4307-aaad-76e02fb46cc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/table/tbody/tr/td</value>
+      <webElementGuid>17a82e57-2ad7-4ddb-86cd-d6347981cfc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'You have successfully logged out. Click here to login again' or . = 'You have successfully logged out. Click here to login again')]</value>
+      <webElementGuid>2d79b714-eaa4-4141-a382-4d7dc84f79a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

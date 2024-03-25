@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>5106d779-d749-4921-80bf-5cd5d0028906</testSuiteGuid>
+   <testCaseLink>
+      <guid>f1f87525-32ce-45b8-9469-3f08782c2fdf</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/AdactinHotel/Login/TC_001_ManualTetcase_LoginFunctionlaity</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>9ba7e031-19c1-41da-8ccd-37963fb156a0</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>37123a1a-17e1-4f89-8a69-40f7820eee96</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/AdactinHotel/Login/TC_002_InvalidUserName</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>24a9adc7-4072-4ee1-b756-6de360dbf58e</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4e899879-7fca-4b6e-9a94-ad5947c0dd85</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/AdactinHotel/Login/TC_003_InvalidPassword</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ea068246-758a-4f8b-b50d-21d75ba5ee6f</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>7249460f-8899-4d26-8a95-434b9a9bc944</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/AdactinHotel/Login/TC_004_InValidUserNamePassword</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>bd0010bf-ccc5-4eff-a2b5-dc0ef501eac3</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>1a97d029-9dd0-412d-89d9-9a39a94261b2</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/AdactinHotel/Login/TC_005_LoginWithUsernameAlone</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>102eff46-a96b-47f4-a885-bf7ebef60afa</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e901f462-2bc1-4be7-96e8-e33ee118de4d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/AdactinHotel/Login/TC_006_LoginWithPassword</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>e1b9810c-bfde-4c3b-b5e0-2aecfa2000ca</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4bb5b27d-4f84-4414-91c9-2a3d5c566771</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/AdactinHotel/Login/TC_007_WithoutUsernamePassword</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>27e3549b-5ec8-4ab7-9968-575430b40c29</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

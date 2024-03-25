@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_009_WithoutEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9ee8f25d-d266-4343-923f-d9e59bee459b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d5a33a87-ace4-4243-9990-398d1f9a634d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d5a33a87-ace4-4243-9990-398d1f9a634d</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

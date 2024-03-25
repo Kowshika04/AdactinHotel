@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_002_RedirectTOLoginPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e444e980-88eb-4a72-8df2-57fc487f535c</testCaseGuid>
+</TestCaseEntity>

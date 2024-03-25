@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_010_WithoutCaptcha</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7fdfd323-692a-4724-9e9f-c7e032a0b5c0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>94097ad3-35ca-4804-9100-2a8d7ac2759c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>94097ad3-35ca-4804-9100-2a8d7ac2759c</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

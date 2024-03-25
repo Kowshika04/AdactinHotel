@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To check the login functionality with the valid username and password</description>
+   <name>TC_005_BookedItenerary</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>749785b6-bcd4-4777-b6b1-d653279ffd99</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6e9b8fa1-a9f2-4f19-a613-7b79a9cb5dbb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bc70cd93-ace4-45b9-ae0a-bc0cc45e18ac</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b02e492d-23d1-4d24-afb9-41600fc48dd3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6e9b8fa1-a9f2-4f19-a613-7b79a9cb5dbb</id>
+      <masked>false</masked>
+      <name>data1</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bc70cd93-ace4-45b9-ae0a-bc0cc45e18ac</id>
+      <masked>false</masked>
+      <name>data2</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b02e492d-23d1-4d24-afb9-41600fc48dd3</id>
+      <masked>false</masked>
+      <name>data3</name>
+   </variable>
+</TestCaseEntity>

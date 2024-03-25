@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To check the login functionality with the valid username and password</description>
+   <name>TC_005_CancelSelectedAccept</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>94a949e7-f71a-4d80-8d80-7031f8f3b14b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8ce2a8fc-cdaf-4b41-8feb-f41ffd96db7d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8ce2a8fc-cdaf-4b41-8feb-f41ffd96db7d</id>
+      <masked>false</masked>
+      <name>data1</name>
+   </variable>
+</TestCaseEntity>

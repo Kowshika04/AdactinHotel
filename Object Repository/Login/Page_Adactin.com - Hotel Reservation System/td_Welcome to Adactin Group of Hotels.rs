@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Welcome to Adactin Group of Hotels</name>
+   <tag></tag>
+   <elementGuidId>bca7d0c4-3f15-463e-8197-f962aabbd1bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Hotel'])[1]/preceding::td[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.welcome_menu</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Welcome to Adactin Group of Hotels&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>e334fdea-6cc1-47fc-938c-8a54a5766ae2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>valign</name>
+      <type>Main</type>
+      <value>top</value>
+      <webElementGuid>64dbb5bf-24da-484e-894f-919ff0052971</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>welcome_menu</value>
+      <webElementGuid>447fbeb7-daba-4a56-8163-b3290b47297f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Welcome to Adactin Group of Hotels</value>
+      <webElementGuid>4019b51c-cf10-4aeb-8dd1-48a9cbfd4a99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/table[@class=&quot;content&quot;]/tbody[1]/tr[1]/td[@class=&quot;welcome_menu&quot;]</value>
+      <webElementGuid>e83915ee-3276-4f53-8bef-77277d11e7c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Hotel'])[1]/preceding::td[1]</value>
+      <webElementGuid>7ef7aa6f-624f-4e6f-9b49-8caab9c5e582</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Welcome to Adactin Group of Hotels']/parent::*</value>
+      <webElementGuid>31ef7cde-fb9e-4ad0-9efd-6a84ad959712</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table[2]/tbody/tr/td</value>
+      <webElementGuid>337f1545-fb37-4ea7-b361-0dd4ef57a4b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Welcome to Adactin Group of Hotels' or . = 'Welcome to Adactin Group of Hotels')]</value>
+      <webElementGuid>8ad16a32-f32f-4997-aaca-cccd4f561766</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

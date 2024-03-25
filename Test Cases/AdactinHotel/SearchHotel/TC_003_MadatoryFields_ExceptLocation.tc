@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_003_MadatoryFields_ExceptLocation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1ef2262b-8041-4cbf-85d6-c1f7d8dd56dd</testCaseGuid>
+</TestCaseEntity>

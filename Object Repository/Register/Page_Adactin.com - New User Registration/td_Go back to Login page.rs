@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Go back to Login page</name>
+   <tag></tag>
+   <elementGuidId>7be21b89-33d7-43a5-becd-3c49d968e2ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='register_form']/table/tbody/tr/td/table/tbody/tr/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td > table > tbody > tr > td:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Go back to Login page&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>8e6c9575-af9c-4207-9216-d06e7f91ae34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>align</name>
+      <type>Main</type>
+      <value>right</value>
+      <webElementGuid>9e0a4980-40c2-437c-aa9d-76eb50cb159c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Go back to Login page  </value>
+      <webElementGuid>5ee3b282-dee8-407f-9163-58d7f97c2170</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;register_form&quot;)/table[@class=&quot;login&quot;]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[1]/td[2]</value>
+      <webElementGuid>df297cf3-5ee9-48f2-90de-5a74f416ea6c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='register_form']/table/tbody/tr/td/table/tbody/tr/td[2]</value>
+      <webElementGuid>a0681b44-d172-4208-a152-333ac4c738d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Fields marked with Red asterix (*) are mandatory)'])[1]/following::td[1]</value>
+      <webElementGuid>88882ba0-37d6-4c56-b258-0ef0db4c3669</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/table/tbody/tr/td[2]</value>
+      <webElementGuid>b7077955-4250-41e7-b7fd-94b2315c6e42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Go back to Login page  ' or . = 'Go back to Login page  ')]</value>
+      <webElementGuid>9b7539f9-904a-4346-baa6-f33640e7f3a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_014_LessThanUsername</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8a6a736-4acc-4fbc-9ca9-94300e167cf9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>221500d3-e73e-4076-8d2b-7ad116171a1d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>221500d3-e73e-4076-8d2b-7ad116171a1d</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

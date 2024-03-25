@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To check the login functionality with the valid username and password</description>
+   <name>TC_001_SelectHotel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7063bff9-e932-4ebe-8031-c4f816e17719</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b50a2d34-2f51-4ab1-b913-7449b1324d64</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4d784cb3-4e33-493c-99e2-4afbcb440847</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0f93a231-8d50-4d0a-9bdc-a3c71f1aa8da</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b50a2d34-2f51-4ab1-b913-7449b1324d64</id>
+      <masked>false</masked>
+      <name>data1</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4d784cb3-4e33-493c-99e2-4afbcb440847</id>
+      <masked>false</masked>
+      <name>data2</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0f93a231-8d50-4d0a-9bdc-a3c71f1aa8da</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

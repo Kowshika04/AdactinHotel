@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To check the login functionality with the valid username and password</description>
+   <name>TC_002_ErrorMessageDisplay</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e648b69b-3143-46cf-be00-46bb4322b28e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d306f5cc-59bc-45f1-8180-186b21c303a7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ffee6d78-fed8-4bb9-b18c-cce2749511c4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f2946f4b-c598-49dd-a16e-80f0e16d15d6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d306f5cc-59bc-45f1-8180-186b21c303a7</id>
+      <masked>false</masked>
+      <name>data1</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ffee6d78-fed8-4bb9-b18c-cce2749511c4</id>
+      <masked>false</masked>
+      <name>data2</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f2946f4b-c598-49dd-a16e-80f0e16d15d6</id>
+      <masked>false</masked>
+      <name>data3</name>
+   </variable>
+</TestCaseEntity>

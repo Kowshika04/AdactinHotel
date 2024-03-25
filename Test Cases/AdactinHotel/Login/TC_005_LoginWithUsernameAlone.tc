@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_005_LoginWithUsernameAlone</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0d49786-0fa8-4522-9861-9d70220e2794</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>102eff46-a96b-47f4-a885-bf7ebef60afa</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>102eff46-a96b-47f4-a885-bf7ebef60afa</id>
+      <masked>false</masked>
+      <name>data5</name>
+   </variable>
+</TestCaseEntity>
