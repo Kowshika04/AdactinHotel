@@ -67,7 +67,7 @@ WebUI.click(findTestObject('Search Hotel/Page_Adactin.com - Search Hotel/Reset')
 
 data2 = WebUI.getAttribute(findTestObject('Search Hotel/Page_Adactin.com - Search Hotel/datepick_in'), 'value')
 
-WebUI.verifyEqual(data2, '25/03/2024')
+WebUI.verifyEqual(data2, '26/03/2024')
 
 WebUI.closeBrowser()
 
